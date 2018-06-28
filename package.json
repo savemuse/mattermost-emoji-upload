@@ -1,0 +1,25 @@
+{
+  "name": "mattermost-emoji-upload",
+  "version": "1.0.0",
+  "description": "Bulk mport the sticker to the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mattermost",
+    "emojis",
+    "node"
+  ],
+  "author": "Anderson Chen",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-runtime": "^6.26.0",
+    "isomorphic-fetch": "^2.2.1",
+    "mattermost-redux": "^1.2.0",
+    "path": "^0.12.7",
+    "prompt": "^1.0.0",
+    "yargs": "^11.0.0"
+  }
+}
