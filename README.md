@@ -8,7 +8,7 @@ $ npm install
 
 ## Usage
 ```
-$ node server.js --teamId yzt9ki71epr37mpnocwusdhqbh --loginId andersonchen@ampostech.com --password passwrod --url http://localhost:8065 --path /Users/andersonchen/Desktop/upload
+$ node server.js --teamId yzt9ki71epr37mpnocwusdhqbh --loginId andersonchen@gmail.com --password passwrod --url http://localhost:8065 --path /Users/andersonchen/Desktop/upload
 ```
 
 ## Parameters
